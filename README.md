@@ -15,7 +15,7 @@ My personal software guide for FOSS, utilities and other things.
 * [Tesseract](https://github.com/tesseract-ocr/tesseract.git)
 # Windows only
 ## Gaming tools
-* [Borderless gaming](https://github.com/Codeusa/Borderless-Gaming.git)Runs any window in borderless windowed fullscreen to avoid flickering during Alt+TAB
+* [Borderless gaming](https://github.com/Codeusa/Borderless-Gaming.git) Runs any window in borderless windowed fullscreen to avoid flickering during Alt+TAB
 ## Misc utilities
 * [Super F4](https://stefansundin.github.io/superf4/). Kills any process by pressing Ctrl+Alt+F4
 * [WinDirStat](https://windirstat.net/index.html). Sorts all your files from most sized to less and visualizes it. Useful if you want to clean your PC
