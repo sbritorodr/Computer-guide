@@ -1,5 +1,5 @@
 # Software Guide
-My personal software guide for FOSS, utilities and other things.
+My personal software guide for FOSS, utilities and other things. This includes some alternatives to propietary/paid software
 # All platforms
 ## Misc utilities
 ### FOSS language translators
