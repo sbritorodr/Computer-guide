@@ -9,7 +9,8 @@ My personal software guide for FOSS, utilities and other things.
 
 ## Edition
 ### Video Editors
-* [Olive](https://www.olivevideoeditor.org/download.php). Smooth, lightweight and GPL. Still on alpha but really stable.
+* [Olive](https://www.olivevideoeditor.org/download.php). Premiere Pro FOSS alternative. Smooth, lightweight and GPL. Still on alpha but really stable.
+* [NATRON](https://natrongithub.github.io/). Video compositing. (After Effects Alternative).
 
 ## Text Recocnition / OCR
 * [Tesseract](https://github.com/tesseract-ocr/tesseract.git)
