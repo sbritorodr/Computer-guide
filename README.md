@@ -11,16 +11,23 @@ My personal software guide for FOSS, utilities and other things. This includes s
 ### Video Editors
 * [Olive](https://www.olivevideoeditor.org/download.php). Premiere Pro FOSS alternative. Smooth, lightweight and GPL. Still on alpha but really stable.
 * [NATRON](https://natrongithub.github.io/). Video compositing. (After Effects Alternative).
+* [Blender](https://www.blender.org) There's a video edition section included in this 3D modeling software. The most stable one and supported. Is a bit slow, but can be accelerating using lower proxy size.
 
+## Biology and sciences
+* [QuPath](https://qupath.github.io) A pathology analysis software for viewing biological samples.
+* [Pathomation](https://www.pathomation.com/pma-start/) Pathology viewer, like QuPath but works worse but can be used on servers.
 ## Text Recocnition / OCR
 * [Tesseract](https://github.com/tesseract-ocr/tesseract.git)
+
 # Windows only
 ## Gaming tools
 * [Borderless gaming](https://github.com/Codeusa/Borderless-Gaming.git) Runs any window in borderless windowed fullscreen to avoid flickering during Alt+TAB
+
 ## Misc utilities
 * [portableapps.com](https://portableapps.com)Portable apps manager
 * [Super F4](https://stefansundin.github.io/superf4/). Kills any process by pressing Ctrl+Alt+F4
 * [WinDirStat](https://windirstat.net/index.html). Sorts all your files from most sized to less and visualizes it. Useful if you want to clean your PC
+
 # GNU/Linux only
 ## Misc utilities
 * [QDirStat](https://github.com/shundhammer/qdirstat.git). WinDirStat for Linux
