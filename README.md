@@ -34,3 +34,4 @@ My personal software guide for FOSS, utilities and other things. This includes s
 # GNU/Linux only
 ## Misc utilities
 * [QDirStat](https://github.com/shundhammer/qdirstat.git). WinDirStat for Linux
+* [WinApps](https://github.com/Fmstrat/winapps). Runs Adobe products and MS Office on linux
