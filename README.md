@@ -6,6 +6,9 @@ My personal software guide for FOSS, utilities and other things. This includes s
 * [Apertium](https://apertium.org/index.spa.html#?dir=eng-epo&q=). [Source code](https://github.com/apertium). Online mostly.
 * [Argos Translate](https://github.com/argosopentech/argos-translate.git)
 * [Dialect](https://github.com/dialect-app/dialect.git)
+### GIMP pug-ins
+* [resynthesizer](https://github.com/bootchk/resynthesizer). Similar to content-aware fill from Photoshop, but free.
+* [Liquid Rescale](http://liquidrescale.wikidot.com). Similar to content-aware scale from Photoshop, but free.
 
 ## Edition
 ### Video Editors
