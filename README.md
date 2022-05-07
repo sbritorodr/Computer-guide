@@ -24,7 +24,8 @@ My personal software guide for FOSS, utilities and other things. This includes s
 
 ## Entertainment
 ### Videogames
-* [SM64 Port](https://github.com/sm64-port/sm64-port) Fork of the [SM64 decomp project](https://github.com/n64decomp/sm64) that creates a PC version of Super Mario 64
+* [SM64 Port](https://github.com/sm64-port/sm64-port) Fork of the [SM64 decomp project](https://github.com/n64decomp/sm64) that creates a PC version of Super Mario 64.
+
 # Windows only
 ## Gaming tools
 * [Borderless gaming](https://github.com/Codeusa/Borderless-Gaming.git) Runs any window in borderless windowed fullscreen to avoid flickering during Alt+TAB
