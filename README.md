@@ -11,6 +11,9 @@ My personal software guide for FOSS, utilities and other things. This includes s
 * [resynthesizer](https://github.com/bootchk/resynthesizer). Similar to content-aware fill from Photoshop, but free.
 * [Liquid Rescale](http://liquidrescale.wikidot.com). Similar to content-aware scale from Photoshop, but free.
 
+### Remote desktop
+* [rustdesk](https://github.com/rustdesk/rustdesk). FOSS and in all platforms. Uses rust as backend and flutter as the frontend.
+
 ## Edition
 ### Video Editors
 * [Olive](https://www.olivevideoeditor.org/download.php). Premiere Pro FOSS alternative. Smooth, lightweight and GPL. Still on alpha but really stable.
@@ -19,7 +22,7 @@ My personal software guide for FOSS, utilities and other things. This includes s
 
 ## Biology and sciences
 * [QuPath](https://qupath.github.io) A pathology analysis software for viewing biological samples.
-* [Pathomation](https://www.pathomation.com/pma-start/) Pathology viewer, like QuPath but works worse but can be used on servers.
+* [Pathomation](https://www.pathomation.com/pma-start/) Pathology viewer, like QuPath but works worse but can be used on servers. Has a lot more compatibility than QuPath.
 ## Text Recocnition / OCR
 * [Tesseract](https://github.com/tesseract-ocr/tesseract.git)
 
